@@ -25,6 +25,6 @@ I am a passionate Data Scientist with a keen interest in Machine Learning Operat
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your_username)
 ---
 ## Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kyalo-francis-192b611a0/). Let's connect and explore opportunities together!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kyalo-francis-192b611a0/). and visit my [Portfolio](https://www.datascienceportfol.io/franciskyalo) Let's connect and explore opportunities together!
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskyalo)](https://github.com/franciskyalo/github-readme-stats)
