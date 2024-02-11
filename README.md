@@ -22,7 +22,8 @@ I am a passionate Data Scientist with a keen interest in Machine Learning Operat
 
 ### Version Control and Collaboration:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your_username)
+
 ## Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kyalo-francis-192b611a0/). Let's connect and explore opportunities together!
 
