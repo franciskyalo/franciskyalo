@@ -2,7 +2,7 @@
 ---
 I am a passionate Data Scientist with a keen interest in Machine Learning Operations (MLOps) and Generative AI. Here's a little about my tech stack:
 
-- 🔭 Currently, I'm diving deep into MLOps to streamline and automate machine learning workflows.
+- 🔭 Currently, I'm diving deep into MLOps and Cloud technologies to streamline and automate machine learning workflows.
 - 🌱 I’m continuously learning and experimenting with new technologies to enhance my skills.
 ---
 ## Tech Stack
