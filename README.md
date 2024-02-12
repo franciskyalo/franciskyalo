@@ -27,4 +27,8 @@ I am a passionate Data Scientist with a keen interest in Machine Learning Operat
 ## Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kyalo-francis-192b611a0/). and visit my [Portfolio](https://www.datascienceportfol.io/franciskyalo) Let's connect and explore opportunities together!
 
+Please Visit my portfolio, here is snippet of what you expect:
+
+![datascienceportfolio](https://github.com/franciskyalo/franciskyalo/assets/94622826/e33fe2bb-777a-48fc-88cc-6e65acb23783)
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskyalo)](https://github.com/franciskyalo/github-readme-stats)
