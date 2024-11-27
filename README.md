@@ -19,6 +19,8 @@ I am a passionate Data Scientist with a keen interest in Machine Learning Operat
 
 ### Visualization:
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 ### Version Control and Collaboration:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
