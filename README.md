@@ -1,4 +1,4 @@
-# Hello, I'm Francis Kyalo! 👋
+
 ---
 <img width="1919" height="1035" alt="Profile Picture" src="https://github.com/user-attachments/assets/64aa557e-6231-4211-95c7-126b519157b0" />
 
