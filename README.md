@@ -1,6 +1,7 @@
 
 ---
-<img width="432" height="432" alt="Hey, Welcome (1)" src="https://github.com/user-attachments/assets/3c8d9417-f5cb-4e39-9443-d064a8714597" />
+<img width="432" height="432" alt="Hey, Welcome New" src="https://github.com/user-attachments/assets/7d3a26cf-9674-4a52-bd75-3d28c068ad67" />
+
 
 <img width="1919" height="1035" alt="Profile Picture" src="https://github.com/user-attachments/assets/64aa557e-6231-4211-95c7-126b519157b0" />
 
