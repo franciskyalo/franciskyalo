@@ -1,7 +1,7 @@
 
 ---
-<img width="432" height="432" alt="Hey, Welcome New" src="https://github.com/user-attachments/assets/7d3a26cf-9674-4a52-bd75-3d28c068ad67" />
 <img width="4294" height="2373" alt="github background" src="https://github.com/user-attachments/assets/fca63bcc-577d-48ce-a00f-2ebc45adf81b" />
+<img width="432" height="432" alt="Hey, Welcome New" src="https://github.com/user-attachments/assets/7d3a26cf-9674-4a52-bd75-3d28c068ad67" />
 
 I am a passionate Data Scientist with a keen interest in Machine Learning Operations (MLOps) and Generative AI. Here's a little about my tech stack:
 
