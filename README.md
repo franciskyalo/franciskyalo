@@ -1,6 +1,8 @@
 
 ---
 <img width="4294" height="2373" alt="github background" src="https://github.com/user-attachments/assets/fca63bcc-577d-48ce-a00f-2ebc45adf81b" />
+<img width="952" height="437" alt="image" src="https://github.com/user-attachments/assets/24e78162-3702-4b11-8dc7-ca0b29768005" />
+
 I am a passionate Data Scientist with a keen interest in Machine Learning Operations (MLOps) and Generative AI. Here's a little about my tech stack:
 
 - 🔭 Currently, I'm diving deep into MLOps and Cloud technologies to streamline and automate machine learning workflows.
