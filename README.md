@@ -35,4 +35,6 @@ Please Visit my portfolio, here is snippet of what you expect:
 
 ![datascienceportfolio](https://github.com/franciskyalo/franciskyalo/assets/94622826/e33fe2bb-777a-48fc-88cc-6e65acb23783)
 
+<img width="640" height="480" alt="Untitled - July 10, 2026 at 14 18 01" src="https://github.com/user-attachments/assets/ee8f2fc6-9729-4145-9198-dd4092320715" />
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskyalo)](https://github.com/franciskyalo/github-readme-stats)
